@@ -7,7 +7,7 @@ class LyricFinder(tk.Tk):
     def __init__(self):
         super().__init__()
         
-        self.GENIUS_TOKEN = Genius('6jxCD0gd2BDB5_ztccPGgX_mMJuUPcyPA_pcHMnalNY9NYsvUnabmGu47Yj5pAdT')
+        self.GENIUS_TOKEN = Genius('TOKEN')
 
         self.title("Lyric Finder")
         
